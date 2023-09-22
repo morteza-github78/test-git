@@ -2,4 +2,3 @@ Hi again with a New File creation.
 
 We need to edit the context of this file for the first time.
 
-Added a new paragraph which will be removed later.
