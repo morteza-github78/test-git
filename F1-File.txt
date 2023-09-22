@@ -1,1 +1,3 @@
 This text file resides in feature-2 branch.
+
+The first file change has been occured by adding the current line.
