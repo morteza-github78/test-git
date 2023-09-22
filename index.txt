@@ -1,0 +1,1 @@
+Hello. This is a sample file for creating an initial commit.
